@@ -1,9 +1,9 @@
 ## Charitly
 
 Non-Intrusive sponsored video overlay on google searches! Most of our income is donated to charity!
-![image1](knowledgepanela.png)
-![image2](knowledgepanelhello.png)
-![image3](knowledgepanelsclever.png)
+![image1](knowledgepanela.PNG)
+![image2](knowledgepanelhello.PNG)
+![image3](knowledgepanelsclever.PNG)
 
 Click Below to download!
 
