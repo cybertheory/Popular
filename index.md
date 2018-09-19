@@ -6,8 +6,10 @@ Our Charitly Videos usually spawn in the side boxy things called "knowledge pane
 
 A Charitly Video (That's what we call 'em) playing in the knowledge panel when searching 'A'!
 ![image1](knowledgepanela.PNG)
+
 A Charitly Video playing in the knowledge panel when searching 'Hello'!
 ![image2](knowledgepanelhello.PNG)
+
 A Charitly Video playing in the knowledge panel when searching 'Clever'!
 ![image3](knowledgepanelsclever.PNG)
 
