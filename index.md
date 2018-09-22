@@ -13,6 +13,6 @@ A Charitly Video playing in the knowledge panel when searching 'Hello'!
 A Charitly Video playing in the knowledge panel when searching 'Clever'!
 ![image3](knowledgepanelsclever.PNG)
 
-Click Below to download!
+Click to download!(https://chrome.google.com/webstore/detail/charitly/oajfolkiagalddkgaabkdealabfeiebp)
 
-![image src="LogoMakr_5qLGHf.png"](https://chrome.google.com/webstore/detail/charitly/oajfolkiagalddkgaabkdealabfeiebp)
+![image](LogoMakr_5qLGHf.png)
