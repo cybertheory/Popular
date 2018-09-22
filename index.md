@@ -15,4 +15,4 @@ A Charitly Video playing in the knowledge panel when searching 'Clever'!
 
 Click Below to download!
 
-![image](LogoMakr_5qLGHf.png)
+![image src="LogoMakr_5qLGHf.png"](https://chrome.google.com/webstore/detail/charitly/oajfolkiagalddkgaabkdealabfeiebp)
