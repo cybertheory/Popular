@@ -15,7 +15,7 @@ function WriteToFile( count, id)
 function readTextFile(id)
 {
     var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", "data/"id+".txt", false);
+    rawFile.open("GET", "data/"+id+".txt", false);
     rawFile.onreadystatechange = function ()
     {
         if(rawFile.readyState === 4)
