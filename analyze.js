@@ -6,11 +6,11 @@ function getUrlVars() {
     return vars;
 }
 function WriteToFile( count, id)
-            { 
-                var txt = new ActiveXObject("Scripting.FileSystemObject");
-                var s = txt.CreateTextFile("data/"+id+".txt", true);
-                s.WriteLine(count);
-                s.Close();
+            {
+                var s = new File("data/"+id+".txt");
+                s.open();
+                s.write(count);
+                s.close();
              }
 function readTextFile(id)
 {
