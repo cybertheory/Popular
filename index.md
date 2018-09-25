@@ -6,6 +6,8 @@ Our Charitly Videos usually spawn in the side boxy things called "knowledge pane
 
 Click to download!(https://chrome.google.com/webstore/detail/charitly/oajfolkiagalddkgaabkdealabfeiebp)
 
+We Donate to all Charities! Find Some [Here] (https://www.charitynavigator.org/)
+
 A Charitly Video (That's what we call 'em) playing in the knowledge panel when searching 'A'!
 ![image1](knowledgepanela.PNG)
 
